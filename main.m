@@ -1,6 +1,6 @@
-function main_v2(dataset,varargin)
-% This function calculates the minimum average precision of 
-% document image patches. It calculates deep-features aswell as hand crafted features 
+function main(dataset,varargin)
+% This is the main function to start the training
+% 
 %====================================================================================
 			%%%%%% Input parameters %%%%%%%%%%
 %====================================================================================
